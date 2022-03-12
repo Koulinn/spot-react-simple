@@ -1,0 +1,22 @@
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+ul li {
+  cursor: pointer;
+  margin: 16px auto;
+}
+
+ul li img {
+  width: 32px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.selected {
+  border: 3px red solid;
+  border-radius: 8px;
+}
